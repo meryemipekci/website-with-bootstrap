@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+body{
+    padding-top: 50px;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.carousel-item active img{
+    height: 600px;
+}
+.hakkimizda{
+    background-color: #f2f2f2;
+}
+
+.line{
+    border: none;
+    border: 3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.igrey{
+   color: #343a40;
+   position: relative;
+   top: -55px;
+   font-size: 40px;
+   border: 1opx solid #f2f2f2;
+   background-color: #f2f1f1; 
+}
+
+.iwhite{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 1opx solid white;
+    background-color: white; 
+ }
+
+.row .card-ekibimiz {
+    width: 320px;
+    height: 300px;
+    margin: 10px;
+}
+
+
+ .card-ekibimiz>img:hover{
+    opacity: 0.8;
+
+ }
+ .galeri{
+    background-color: #f2f2f2;
+ }
+
+ .figure:hover{
+    opacity: 0.8;
+ }
+
